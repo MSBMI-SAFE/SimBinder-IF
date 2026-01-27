@@ -1,6 +1,6 @@
 # SimBinder-IF: Structure-Aware Antibody Affinity Optimization via Efficient Preference Learning
 
-SimBinder-IF is a framework for antibody affinity maturation. It leverages a structure-aware protein language model (ESM-IF) and an efficient preference learning strategy (SimPO) to optimize antibody binding affinity based on complex structures.
+SimBinder-IF is a framework for antibody affinity maturation. It leverages an inverse folding protein model (ESM-IF) and an efficient preference learning strategy (SimPO) to optimize antibody binding affinity based on complex structures.
 
 
 ## 🛠️ Installation
