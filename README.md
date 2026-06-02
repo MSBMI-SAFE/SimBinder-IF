@@ -49,6 +49,10 @@ python train_esmif.py \
     --margin 0.1 \
     --higher_is_better True
 ```
+## 📥 Model Checkpoints
+Fine-trained model checkpoints are available for download:
+- **Google Drive**: [Download Checkpoints](https://drive.google.com/drive/folders/19RpaLLbAGre1Kj2FFyaRmXmBmwegdoK8)
+
 
 ## 📝 Citation
 If you find this work helpful for your research, please cite our paper:
